@@ -608,9 +608,9 @@ progress {
 }
 
 .img-logo {
-  max-width: 20%;
+  max-width: 5%;
   height: auto;
-}
+  }
 
 .img-thumbnail {
   padding: 0.25rem;
