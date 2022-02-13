@@ -11734,6 +11734,13 @@ tr:nth-child(even) {
   background-color: #293737;
  
 }
+.proximos-proyectos{
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  text-align: center;
+  padding: 0.1px;
+  color: black;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 65%, #000 100%), url("../assets/img/logo_dc.png");
+}
 
 .footer {
   padding: 5rem 0;
