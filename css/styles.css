@@ -11742,6 +11742,12 @@ tr:nth-child(even) {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 65%, #000 100%), url("../assets/img/logo_dc.png");
 }
 
+ol, h3{
+    width: 20%;
+    margin: auto;
+}
+
+
 .footer {
   padding: 5rem 0;
 }
